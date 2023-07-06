@@ -1,0 +1,13 @@
+ nowadays,html e symentic tag besi use hoy.
+
+1.time tag= time set,datetime attribute use.
+2. bdo tag e (dir=rtl) --> lekha olte jay.
+3.sup tag--> word k opore niye jay.
+4.abbr tag-->title attribute dile mouse point e likha dekhabe.
+5. lebel tag--> for att. e disk dey
+6.meter tag= id att. e o disk likhe.
+7.progress tag= id att. dey.
+8.details tag= er vitore summary tag dile collops icon diye kono likha hide kore
+------------------------------------------------
+
+
