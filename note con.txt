@@ -10,4 +10,20 @@
 8.details tag= er vitore summary tag dile collops icon diye kono likha hide kore
 ------------------------------------------------
 
+flex== div er moddhe dive-> 1st div er class e      (display:flex) dile inline hoye jabe.
+
+justify content: center-> aline item:center->
+flex-direction:row-reverse->
+--------------------------------------------------------
+project start
+part1=menu bar e kaj
+
+    header tag er moddhe->nav tag(menu te use hoy) -->div moddhe (menu-con)--> div(logo)-->menus div(er moddhe 4 class)-->
+
+
+
+    (./) --> ak e file e
+    mouse hover:
+
+
 
